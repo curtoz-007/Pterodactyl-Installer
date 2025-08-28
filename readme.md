@@ -23,5 +23,6 @@ bash <(curl -s https://ptero.xento.xyz)
 
 ## ⚡ One-Line Installation
 
-Copy and run the following command in your terminal:
+Copy and run the following command in your servers terminal:
+
 
