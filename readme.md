@@ -7,7 +7,7 @@ Install your server panel or wings with a single command, no manual setup requir
 
 ```bash
 bash <(curl -s https://ptero.xento.xyz/installer.sh)
-
+```
 
 ## 🌟 Features
 
@@ -24,5 +24,6 @@ bash <(curl -s https://ptero.xento.xyz/installer.sh)
 ## ⚡ One-Line Installation
 
 Copy and run the following command in your servers terminal:
+
 
 
